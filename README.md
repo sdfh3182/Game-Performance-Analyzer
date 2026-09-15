@@ -12,7 +12,6 @@ It is a program for recording and analyzing.
 - Measuring GPU usage
 - Measure RAM usage
 - FPS record
-- Save CSV data
 
 ## Installation
 
